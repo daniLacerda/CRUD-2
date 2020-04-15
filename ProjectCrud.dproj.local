@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/31 09:31:45.000.816,=C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 15:42:27.000.205,=C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 15:43:54.000.614,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Unit1.dfm=C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.dfm</Transaction>
+    <Transaction>2020/04/07 15:43:54.000.614,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Unit1.pas=C:\Users\Estil\Desktop\Projetos-Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/04/07 15:43:57.000.591,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Project1.dproj=C:\Users\Estil\Desktop\Projetos-Delphi\Project1.dproj</Transaction>
+    <Transaction>2020/04/07 16:55:23.000.764,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Project1.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Project1.dproj</Transaction>
+    <Transaction>2020/04/07 16:58:26.000.441,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Project1.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Project1.dproj</Transaction>
+    <Transaction>2020/04/09 11:48:44.000.190,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Project1.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/09 11:48:54.000.825,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Unit1.dfm=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit1.dfm</Transaction>
+    <Transaction>2020/04/09 11:48:54.000.825,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\Unit1.pas=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit1.pas</Transaction>
+    <Transaction>2020/04/09 14:45:09.000.800,=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit2.pas</Transaction>
+    <Transaction>2020/04/09 15:34:51.000.040,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit2.pas=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit2.pas</Transaction>
+    <Transaction>2020/04/09 15:34:51.000.040,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit2.dfm=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit2.dfm</Transaction>
+    <Transaction>2020/04/09 15:34:57.000.109,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/09 16:06:29.000.876,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit1.dfm=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit1.dfm</Transaction>
+    <Transaction>2020/04/09 16:06:29.000.876,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Unit1.pas=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit1.pas</Transaction>
+    <Transaction>2020/04/09 16:06:41.000.810,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/09 16:08:55.000.349,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/10 12:33:33.000.481,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\Unit1.pas=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit1.pas</Transaction>
+    <Transaction>2020/04/10 12:33:33.000.481,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\Unit1.dfm=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit1.dfm</Transaction>
+    <Transaction>2020/04/10 12:33:47.000.003,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/10 15:06:07.000.042,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/10 15:09:06.000.184,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\Crud2tentativa\Unit2.pas=</Transaction>
+    <Transaction>2020/04/10 15:09:12.000.283,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/10 15:11:36.000.230,C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\Exemplo conexao\Dani\crud2\sextaCRUD\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 12:05:37.000.875,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 12:21:38.000.528,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 12:39:06.000.780,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 14:02:56.000.924,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 14:32:13.000.753,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 14:39:18.000.217,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 15:00:22.000.825,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 15:00:48.000.316,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\CRUD-15\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 15:11:35.771,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\CRUD-15\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\CRUD-15\ProjectCrud.dproj</Transaction>
+    <Transaction>2020/04/15 15:11:53.107,C:\Users\Estil\Desktop\DELPHI\CRUD-Final\ProjectCrud.dproj=C:\Users\Estil\Desktop\DELPHI\CRUD-Final\CRUD-15\ProjectCrud.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
